@@ -1,1 +1,1 @@
-# ARIMA_Project
+ARIMA Model for estimating Quarterly EPS for J&J  
